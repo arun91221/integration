@@ -1,2 +1,3 @@
+ansible_ssh_user: ec2-user
 http_port: 8086
 template_text: This is an example of using template
